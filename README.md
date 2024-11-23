@@ -1,7 +1,5 @@
 ## Hi there :alien:
 
-<!--
-
 My name is Pedro, I'm 34 years old, graduated in Computer Networks since 2011, with experience in the area.
 I'm in a career transition, my target is a developer FullStack.  
 And, I want to improve my English, working in North American companies.
@@ -13,4 +11,4 @@ CSS
 JS
 NODE.JS
 - 💬 Ask me about ...
--->
+
