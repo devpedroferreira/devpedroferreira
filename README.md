@@ -5,5 +5,9 @@ I'm in a career transition, my target is a developer FullStack.
 And, I want to improve my English, working in North American companies.
 
 - 🔭 I’m looking for a job, as a developer 💻 💾...
-- 🌱 I’m currently learning, HTML5, CSS, JS, NODE.JS
+- 🌱 I’m currently learning,
+  <p> HTML5 </p>
+  <p> CSS </p>
+  <p> JavaScript </p>
+  <p> Node.JS </p>
 - 💬 Ask me something [here](https://www.linkedin.com/in/devpedroferreira/)
