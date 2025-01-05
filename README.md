@@ -15,3 +15,5 @@
   <p>✅ <b>JavaScript</b> </p>
   <p>✅ Node.JS </p>
 - 💬 Ask me something [here](https://www.linkedin.com/in/devpedroferreira/)
+
+- ![snake gif](https://github.com/devpedroferreira/devpedroferreira/blob/output/github-contribution-grid-snake-dark.svg)
