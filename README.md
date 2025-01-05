@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there :alien:
 
-<!--
-**devpedroferreira/devpedroferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  My name is Pedro, 34 years old, i'm in a career transition, my target is a developer FullStack.
 
-Here are some ideas to get you started:
+- Full stack programmer student, at DevClub school. Since 10/2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Graduated in Computer Networks since 2011.
+
+- I intend to improve my English, by working for American companies.
+
+- 🔭 I’m looking for a job, as a developer 💻 💾...
+- 🌱 I’m currently learning:
+  <p>✅ HTML5</p>
+  <p>✅ CSS </p>
+  <p>✅ <b>JavaScript</b> </p>
+  <p>✅ Node.JS </p>
+- 💬 Ask me something [here](https://www.linkedin.com/in/devpedroferreira/)
