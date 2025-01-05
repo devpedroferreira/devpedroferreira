@@ -18,3 +18,5 @@
 
 <!--snake animation-->
 ![snake gif](https://github.com/devpedroferreira/devpedroferreira/blob/output/github-contribution-grid-snake-dark.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devpedroferreira&langs_count=8)](https://github.com/devpedroferreira/github-readme-stats)
